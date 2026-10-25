@@ -1,0 +1,434 @@
+{
+ "categories": [
+  {
+   "slug": "t-shirts",
+   "name": "T-Shirts",
+   "blurb": "Everyday tees cut from heavyweight cotton."
+  },
+  {
+   "slug": "shirts",
+   "name": "Shirts",
+   "blurb": "Linen, oxford and denim, made to be worn open or buttoned."
+  },
+  {
+   "slug": "hoodies",
+   "name": "Hoodies & Sweats",
+   "blurb": "Brushed fleece and French terry."
+  },
+  {
+   "slug": "trousers",
+   "name": "Trousers",
+   "blurb": "Tapered chinos and relaxed linen."
+  },
+  {
+   "slug": "outerwear",
+   "name": "Outerwear",
+   "blurb": "Jackets for changeable weather."
+  }
+ ],
+ "products": [
+  {
+   "slug": "premium-cotton-t-shirt",
+   "name": "Premium Cotton T-Shirt",
+   "category": "t-shirts",
+   "price": 999,
+   "compare": 1299,
+   "sku": "TF-TEE-001",
+   "shape": "tee",
+   "description": "A 220 GSM combed-cotton tee with a clean ribbed collar and a boxy, easy drape. Garment-washed so it feels broken-in from day one.",
+   "material": "100% combed cotton, 220 GSM",
+   "fit": "Regular fit. Model is 6'0\" and wears L.",
+   "isNew": true,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#23242A"
+    },
+    {
+     "name": "White",
+     "hex": "#F2F1EC"
+    },
+    {
+     "name": "Indigo",
+     "hex": "#2A3768"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "stock": 12
+  },
+  {
+   "slug": "heavyweight-pocket-tee",
+   "name": "Heavyweight Pocket Tee",
+   "category": "t-shirts",
+   "price": 1199,
+   "compare": null,
+   "sku": "TF-TEE-002",
+   "shape": "tee",
+   "description": "Thick 260 GSM jersey with a single chest pocket and double-needle hems that keep their shape wash after wash.",
+   "material": "100% cotton, 260 GSM",
+   "fit": "Relaxed fit.",
+   "isNew": false,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Sand",
+     "hex": "#CDBB9A"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5B6244"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#44464D"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "stock": 10
+  },
+  {
+   "slug": "stitch-line-oversized-tee",
+   "name": "Stitch Line Oversized Tee",
+   "category": "t-shirts",
+   "price": 1299,
+   "compare": 1599,
+   "sku": "TF-TEE-003",
+   "shape": "tee",
+   "description": "Dropped shoulders, extra length and contrast topstitching along the shoulder seam. Our brand thread, made visible.",
+   "material": "100% cotton, 240 GSM",
+   "fit": "Oversized fit. Size down for a regular fit.",
+   "isNew": true,
+   "isFeatured": false,
+   "colors": [
+    {
+     "name": "Bone",
+     "hex": "#E6E1D3"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1B2440"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 8
+  },
+  {
+   "slug": "linen-camp-shirt",
+   "name": "Linen Camp Shirt",
+   "category": "shirts",
+   "price": 2499,
+   "compare": 2999,
+   "sku": "TF-SHT-001",
+   "shape": "shirt",
+   "description": "Breathable European linen with a camp collar and corozo-style buttons. Built for long, hot afternoons.",
+   "material": "100% linen",
+   "fit": "Relaxed fit.",
+   "isNew": true,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Sage",
+     "hex": "#8A9A82"
+    },
+    {
+     "name": "Bone",
+     "hex": "#E6E1D3"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1B2440"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 8
+  },
+  {
+   "slug": "oxford-button-down",
+   "name": "Oxford Button-Down",
+   "category": "shirts",
+   "price": 2299,
+   "compare": null,
+   "sku": "TF-SHT-002",
+   "shape": "shirt",
+   "description": "A proper oxford weave with a soft roll collar. Wears well tucked or open over a tee.",
+   "material": "100% cotton oxford",
+   "fit": "Regular fit.",
+   "isNew": false,
+   "isFeatured": false,
+   "colors": [
+    {
+     "name": "White",
+     "hex": "#F2F1EC"
+    },
+    {
+     "name": "Denim",
+     "hex": "#3E5C8A"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "stock": 9
+  },
+  {
+   "slug": "indigo-denim-shirt",
+   "name": "Indigo Denim Shirt",
+   "category": "shirts",
+   "price": 2799,
+   "compare": null,
+   "sku": "TF-SHT-003",
+   "shape": "shirt",
+   "description": "Mid-weight selvedge-look denim, rinsed for softness, with double chest pockets and pearl snaps.",
+   "material": "100% cotton denim, 6 oz",
+   "fit": "Regular fit.",
+   "isNew": false,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Indigo",
+     "hex": "#2A3768"
+    },
+    {
+     "name": "Stone",
+     "hex": "#B9B5A8"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 6
+  },
+  {
+   "slug": "classic-zip-hoodie",
+   "name": "Classic Zip Hoodie",
+   "category": "hoodies",
+   "price": 2999,
+   "compare": 3499,
+   "sku": "TF-HOD-001",
+   "shape": "hoodie",
+   "description": "Brushed-back fleece, a three-panel hood and a heavy metal zip. The one you will reach for first.",
+   "material": "80% cotton, 20% recycled polyester, 400 GSM",
+   "fit": "Regular fit.",
+   "isNew": true,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Charcoal",
+     "hex": "#44464D"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1B2440"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CDBB9A"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "stock": 10
+  },
+  {
+   "slug": "loopback-crew-sweatshirt",
+   "name": "Loopback Crew Sweatshirt",
+   "category": "hoodies",
+   "price": 2499,
+   "compare": null,
+   "sku": "TF-HOD-002",
+   "shape": "sweat",
+   "description": "French-terry loopback cotton with a ribbed crew neck and cuffs. Soft inside, structured outside.",
+   "material": "100% cotton French terry, 340 GSM",
+   "fit": "Regular fit.",
+   "isNew": false,
+   "isFeatured": false,
+   "colors": [
+    {
+     "name": "Stone",
+     "hex": "#B9B5A8"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5B6244"
+    },
+    {
+     "name": "Black",
+     "hex": "#23242A"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "stock": 10
+  },
+  {
+   "slug": "tapered-chino",
+   "name": "Tapered Chino",
+   "category": "trousers",
+   "price": 2199,
+   "compare": 2599,
+   "sku": "TF-TRS-001",
+   "shape": "trouser",
+   "description": "Stretch cotton twill, mid-rise, tapered below the knee. Clean enough for work, easy enough for weekends.",
+   "material": "98% cotton, 2% elastane",
+   "fit": "Tapered fit. Waist sizes in inches.",
+   "isNew": false,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Sand",
+     "hex": "#CDBB9A"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1B2440"
+    },
+    {
+     "name": "Olive",
+     "hex": "#5B6244"
+    }
+   ],
+   "sizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+   ],
+   "stock": 8
+  },
+  {
+   "slug": "relaxed-linen-trouser",
+   "name": "Relaxed Linen Trouser",
+   "category": "trousers",
+   "price": 2599,
+   "compare": null,
+   "sku": "TF-TRS-002",
+   "shape": "trouser",
+   "description": "Pleated, wide-leg linen-cotton trousers with an elasticated back waist. Cool and comfortable in the heat.",
+   "material": "55% linen, 45% cotton",
+   "fit": "Relaxed fit. Waist sizes in inches.",
+   "isNew": true,
+   "isFeatured": false,
+   "colors": [
+    {
+     "name": "Bone",
+     "hex": "#E6E1D3"
+    },
+    {
+     "name": "Black",
+     "hex": "#23242A"
+    }
+   ],
+   "sizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+   ],
+   "stock": 7
+  },
+  {
+   "slug": "waxed-field-jacket",
+   "name": "Waxed Field Jacket",
+   "category": "outerwear",
+   "price": 5999,
+   "compare": 7499,
+   "sku": "TF-OUT-001",
+   "shape": "jacket",
+   "description": "A showerproof waxed-cotton jacket with four pockets, a storm placket and a corduroy collar.",
+   "material": "100% waxed cotton",
+   "fit": "Regular fit. Room for a hoodie underneath.",
+   "isNew": false,
+   "isFeatured": true,
+   "colors": [
+    {
+     "name": "Olive",
+     "hex": "#5B6244"
+    },
+    {
+     "name": "Black",
+     "hex": "#23242A"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 5
+  },
+  {
+   "slug": "quilted-overshirt",
+   "name": "Quilted Overshirt",
+   "category": "outerwear",
+   "price": 4499,
+   "compare": null,
+   "sku": "TF-OUT-002",
+   "shape": "jacket",
+   "description": "A lightly quilted shirt-jacket for in-between weather. Snap front, chest pockets, diamond stitching throughout.",
+   "material": "Shell: 100% cotton. Fill: recycled polyester",
+   "fit": "Regular fit.",
+   "isNew": true,
+   "isFeatured": false,
+   "colors": [
+    {
+     "name": "Navy",
+     "hex": "#1B2440"
+    },
+    {
+     "name": "Clay",
+     "hex": "#B07A5B"
+    }
+   ],
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": 6
+  }
+ ]
+}
